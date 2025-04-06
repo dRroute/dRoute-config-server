@@ -12,7 +12,7 @@ The `dRoute-config-server` is a configuration server for the dRoute project. It 
 ## Prerequisites
 - Java 17 or higher
 - Spring Boot 3.x
-- Maven 3.8+ or Gradle 7.x+
+- Maven 3.8+ 
 - A running instance of a configuration repository (e.g., Git, database).
 
 ## Getting Started
